@@ -9,6 +9,7 @@ namespace CinemaApp
             //Console.WriteLine("Enter your name: ");
             //var name = Console.ReadLine();
             //Console.WriteLine($"Hello {name}");
+            //Patrick doe is hoofdletter ;
 
             class addAccount(username, password){
                 accountList.Add(username, password);
